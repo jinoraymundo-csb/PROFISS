@@ -1,0 +1,38 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>https://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>5850103_557063296</transaction>
+  <purchase>2026-05-12T10:34:39+00:00</purchase>
+  <expiration>2026-05-12T16:34:39+00:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000005850103</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Foundations of Information Ethics</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Burgess, John T. F.;Knox, Emily J. M.;Hauptman, Robert;</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">American Library Association</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">5850103</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000005850103</resource>
+      <permissions>
+        <display>
+          <duration>2591428</duration>
+        </display>
+        <excerpt>
+          <duration>2591428</duration>
+          <count initial="17" max="17" incrementInterval="152436"/>
+        </excerpt>
+        <print>
+          <duration>2591428</duration>
+          <count initial="34" max="34" incrementInterval="76218"/>
+        </print>
+        <play>
+          <duration>2591428</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>4QrnIz/Cvrq4RtLF5fQB5/9IzSU=</hmac>
+</fulfillmentToken>
