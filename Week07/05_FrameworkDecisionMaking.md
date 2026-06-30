@@ -86,7 +86,7 @@ When faced with a difficult choice, you can apply these frameworks using the fol
 
 The company calculates the total impact. If a data breach occurs, it could compromise the personal records of 10 million users, causing massive collective harm, identity theft, and lawsuits. Taking the system offline causes a definitive, but contained, financial loss for a few hundred corporate clients.
 
-** The Action**
+**The Action**
 
 They choose to **take the service offline immediately** because preventing a massive data breach results in the "greatest good for the greatest number" of people.
 
