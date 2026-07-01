@@ -42,8 +42,7 @@ You must decide how to distribute this first wave of vaccines. You have two prim
 # Group Deliverable:
 
 1. Come up with a short presentation with proposals based on each of the 3 Ethical Frameworks (Consequentialist, Duty, Virtue)
-    a. The Core Argument
-    b. The Debate
-    c. The Action
+    a. The Decision
+    b. The Action
 2. 6 Groups (there are 3 scenarios, so a scenario can be at most "taken" by 2 groups; 7~ members per)
 3. Prepare for a Q&A panel next week
