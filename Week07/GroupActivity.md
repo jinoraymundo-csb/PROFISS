@@ -45,5 +45,5 @@ You must decide how to distribute this first wave of vaccines. You have two prim
     a. The Core Argument
     b. The Debate
     c. The Action
-2. 3 Groups (around 14 members per)
+2. 6 Groups (there are 3 scenarios, so a scenario can be at most "taken" by 2 groups; 7~ members per)
 3. Prepare for a Q&A panel next week
