@@ -61,6 +61,6 @@ Adam Neumann is the co-founder and former chief executive officer (CEO) of WeWor
 ---
 
 References:
-- [^1]: https://www.investopedia.com/what-went-wrong-with-ftx-6828447
-- [^2]: https://www.theguardian.com/business/2019/dec/20/why-wework-went-wrong
-- [^3]: https://www.integrityline.com/expertise/blog/elizabeth-holmes-theranos/
+[^1]: https://www.investopedia.com/what-went-wrong-with-ftx-6828447
+[^2]: https://www.theguardian.com/business/2019/dec/20/why-wework-went-wrong
+[^3]: https://www.integrityline.com/expertise/blog/elizabeth-holmes-theranos/
