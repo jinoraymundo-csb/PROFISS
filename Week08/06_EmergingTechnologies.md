@@ -1,6 +1,6 @@
 # Emerging Technologies and Professional Responsibility
 
-## I. Sam Bankman-Fried (FTX)
+## I. Sam Bankman-Fried (FTX)[^1]
 
 - **Founder and Former CEO**: He was the founder and CEO of FTX, which was once one of the world's largest and most trusted cryptocurrency exchanges (valued at over $32 billion at its peak).
 - **Convicted Felon**: Following the collapse of the exchange, he was arrested, extradited to the U.S., and ultimately convicted by a jury on multiple criminal counts of financial fraud. He was sentenced to 25 years in prison and ordered to pay $11 billion.
@@ -19,7 +19,7 @@
 
 ---
 
-## II. Adam Neumann (WeWork)
+## II. Adam Neumann (WeWork)[^2]
 
 Adam Neumann is the co-founder and former chief executive officer (CEO) of WeWork (later renamed the We Company). He is known to be a charismatic figure with a "messianic" and ludicrous persona. Known for his eclectic lifestyle—including smoking weed, drinking tequila, studying Kabbalah, and banning meat at the company. Neumann pitched WeWork not merely as an office-subleasing business, but as a "physical social network" and a transformative movement meant to encompass all aspects of people's lives (with grand visions for "WeSleep", "WeSail", and "WeBank").
 
@@ -34,11 +34,11 @@ Adam Neumann is the co-founder and former chief executive officer (CEO) of WeWor
 
 - **Venture Capital Mania vs Business Reality** Investors became so blinded by the FOMO (fear of missing out) of finding the next trillion-dollar tech giant that they ignored basic economics. WeWork was losing billions ($1.9 billion on $1.8 billion of revenue in 2018), yet investors valued it as a tech company rather than what it actually was: a traditional, high-risk real estate landlord.
 - **The Danger of "Charismatic Founder" Worship** Silicon Valley often tolerates bad behavior, lack of governance, and erratic whims if a founder promises a world-changing vision. Neumann successfully weaponized his eccentricities as a sales pitch to extract billions from sophisticated investors like SoftBank and the Saudi government.
-- **The Structural Flaw of "Renting Long and Subleasing Short**: From a business model perspective, WeWork exposed the massive risk of committing to fixed, long-term liabilities (15-year building leases totaling $47 billion) while relying on volatile, highly flexible, short-term revenue commitments from members.
+- **The Structural Flaw of "Renting Long and Subleasing Short"**: From a business model perspective, WeWork exposed the massive risk of committing to fixed, long-term liabilities (15-year building leases totaling $47 billion) while relying on volatile, highly flexible, short-term revenue commitments from members.
 
 ---
 
-## III. Elizabeth Homes (Theranos)
+## III. Elizabeth Homes (Theranos)[^3]
 
 - **Founder of Theranos** She founded the medical start-up Theranos in 2003 at the age of 19 after dropping out of Stanford University.
 - **Silicon Valley Icon** By age 31, she was celebrated as a young entrepreneur in Silicon Valley, appearing on the covers of Fortune, Forbes, and Inc., and was named one of Time magazine's 100 most influential people.
@@ -61,6 +61,6 @@ Adam Neumann is the co-founder and former chief executive officer (CEO) of WeWor
 ---
 
 References:
-https://www.investopedia.com/what-went-wrong-with-ftx-6828447
-https://www.theguardian.com/business/2019/dec/20/why-wework-went-wrong
-https://www.integrityline.com/expertise/blog/elizabeth-holmes-theranos/
+- [^1]: https://www.investopedia.com/what-went-wrong-with-ftx-6828447
+- [^2] https://www.theguardian.com/business/2019/dec/20/why-wework-went-wrong
+- [^3] https://www.integrityline.com/expertise/blog/elizabeth-holmes-theranos/
