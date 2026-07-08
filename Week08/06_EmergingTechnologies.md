@@ -38,7 +38,7 @@ Adam Neumann is the co-founder and former chief executive officer (CEO) of WeWor
 
 ---
 
-## III. Elizabeth Homes (Theranos)[^3]
+## III. Elizabeth Holmes (Theranos)[^3]
 
 - **Founder of Theranos** She founded the medical start-up Theranos in 2003 at the age of 19 after dropping out of Stanford University.
 - **Silicon Valley Icon** By age 31, she was celebrated as a young entrepreneur in Silicon Valley, appearing on the covers of Fortune, Forbes, and Inc., and was named one of Time magazine's 100 most influential people.
